@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 ![image](https://github.com/HoangGuruu/HoangGuruu/assets/111829092/613b671e-6035-45b9-bfd1-2c6b0208924e)
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fzingnews.vn%2F4-xu-huong-cong-nghe-bung-no-trong-nam-2020-post1031989.html&psig=AOvVaw1Y3DbmqkOaeazHJLM_4hLW&ust=1685379704711000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNj1v-i-mP8CFQAAAAAdAAAAABAZ
+![Z01902012020](https://github.com/HoangGuruu/HoangGuruu/assets/111829092/fd612b2d-6cba-44a0-a238-da3f03b3843b)
