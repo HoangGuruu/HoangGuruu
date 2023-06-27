@@ -5,6 +5,13 @@
 </p>
 
 <p align="center">
- <h2 align="right">GitHub Readme Status - Hoang Guruu</h2>
- <p align="left">Get dynamically generated GitHub stats on your READMEs!</p>
+ <h2 align="center">I. List of my DevOps Project</h2>
+</p>
+
+<p align="center">
+ <h2 align="center">II. List of my AWS Project</h2>
+</p>
+
+<p align="center">
+ <h2 align="center">III. List of my Robot-AI Project</h2>
 </p>
