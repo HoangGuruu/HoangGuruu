@@ -3,3 +3,8 @@
  <h2 align="center">GitHub Readme Status - Hoang Guruu</h2>
  <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 </p>
+
+<p align="center">
+ <h2 align="right">GitHub Readme Status - Hoang Guruu</h2>
+ <p align="left">Get dynamically generated GitHub stats on your READMEs!</p>
+</p>
