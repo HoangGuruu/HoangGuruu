@@ -10,17 +10,17 @@
  <h2 align="center"> I. List of my DevOps Project</h2>
 </p>
 
-## 0. Journey of My DevSecOps Engineer
+### 0. Journey of My DevSecOps Engineer
 
-## 1. DevOps Hands On 1st AWS CodePipeline Commit Build Deploy CI/CD WebApp 
+### 1. DevOps Hands On 1st AWS CodePipeline Commit Build Deploy CI/CD WebApp 
 [Link](https://github.com/HoangGuruu/DevOps-Jenkins-CICD-with-GitHub-Integration-use-EC2-Ubuntu.git) | Link Youtube
-## 2. DevOps Jenkins CI/CD with GitHub Integration use EC2 Ubuntu & Docker
+### 2. DevOps Jenkins CI/CD with GitHub Integration use EC2 Ubuntu & Docker
 [Link](https://github.com/HoangGuruu/DevOps-Jenkins-CICD-with-GitHub-Integration-use-EC2-Ubuntu.git) | Link Youtube
 
 <p align="center">
  <h2 align="center">II. List of my AI Project</h2>
 </p>
 
-## 0. Journey of My AI Engineer
-## 1. 
+### 0. Journey of My AI Engineer
+### 1. 
 
