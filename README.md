@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
- <h2 align="center"> I. List of my DevOps Project</h2>
+ <h1 align="center"> I. List of my DevOps Project</h1>
 </p>
 
 ## 0. Journey of My DevSecOps Engineer
@@ -16,7 +16,7 @@
 [Link](https://github.com/HoangGuruu/DevOps-Jenkins-CICD-with-GitHub-Integration-use-EC2-Ubuntu.git) | Link Youtube
 
 <p align="center">
- <h2 align="center">II. List of my AI Project</h2>
+ <h1 align="center">II. List of my AI Project</h1>
 </p>
 
 ## 0. Journey of My AI Engineer
