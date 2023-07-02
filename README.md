@@ -62,5 +62,5 @@ src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor
  <img height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=HoangGuruu&theme=radical&hide_border=false" align="center" /> 
 </p>
 <p align="center"> 
- <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangGuruu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="center" /> 
+ <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangGuruu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="center" /> 
 </p>
