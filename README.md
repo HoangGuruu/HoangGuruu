@@ -27,7 +27,7 @@
 
 <p align="center">
 # 💫About Me :
-zx
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 </p>
 
 # 💻Tech Stack
