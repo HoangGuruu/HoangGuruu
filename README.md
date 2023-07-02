@@ -27,7 +27,7 @@ src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor
 </p>
 
 <p align="center">
- <h2 align="center"> I. List of my DevOps Project</h2>
+ <h1 align="center"> I. List of my DevOps Project</h1>
 </p>
 
 - [Link full list repository with DevOps](https://github.com/stars/HoangGuruu/lists/devops)
@@ -39,9 +39,10 @@ src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor
 [Link](https://github.com/HoangGuruu/DevOps-Jenkins-CICD-with-GitHub-Integration-use-EC2-Ubuntu.git) | Link Youtube
 
 <p align="center">
- <h2 align="center">II. List of my AI Project</h2>
+ <h1 align="center">II. List of my AI Project</h1>
 </p>
 
+- [Link full list repository with AI Engineer]()
 ### 0. Journey of My AI Engineer
 ### 1. 
 
