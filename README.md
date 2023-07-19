@@ -45,7 +45,12 @@ src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor
 
 - [Link full list repository with AI Engineer]()
 ### 0. Journey of My AI Engineer
-### 1. 
+### 1. Robot AI Hands On 1st Teach AI to Dance by RNN
+Link | Link Youtube
+### 2. Robot AI Hands On 2nd AWS DeepRacer
+Link | Link Youtube
+### 3. Robot AI Hands On 3rd AWS Sagemaker
+Link | Link Youtube
 
 <p align="center">
  <h2 align="center">.</h2>
