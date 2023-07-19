@@ -36,7 +36,7 @@ src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor
 [Link](https://github.com/HoangGuruu/DevOps-My-Journey-to-become-a-Best-DevOps-Engineer.git) | Link Youtube
 ### 1. DevOps Hands On 1st AWS CodePipeline Commit Build Deploy CI/CD WebApp 
 [Link](https://github.com/HoangGuruu/DevOps-Jenkins-CICD-with-GitHub-Integration-use-EC2-Ubuntu.git) | Link Youtube
-### 2. DevOps Jenkins CI/CD with GitHub Integration use EC2 Ubuntu & Docker
+### 2. DevOps Hands On 2st Jenkins CI/CD with GitHub Integration use EC2 Ubuntu & Docker
 [Link](https://github.com/HoangGuruu/DevOps-Jenkins-CICD-with-GitHub-Integration-use-EC2-Ubuntu.git) | Link Youtube
 
 <p align="center">
