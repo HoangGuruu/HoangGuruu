@@ -28,7 +28,7 @@ src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor
 </p>
 
 <p align="center">
- <h1 align="center"> I. List of my DevOps Project</h1>
+ <h1 align="center"> I. List of my DevOps Project </h1>
 </p>
 
 - [Link full list repository with DevOps](https://github.com/stars/HoangGuruu/lists/devops)
