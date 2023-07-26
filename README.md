@@ -38,6 +38,11 @@ src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor
 [Link](https://github.com/HoangGuruu/DevOps-Jenkins-CICD-with-GitHub-Integration-use-EC2-Ubuntu.git) | Link Youtube
 ### 2. DevOps Hands On 2st Jenkins CI/CD with GitHub Integration use EC2 Ubuntu & Docker
 [Link](https://github.com/HoangGuruu/DevOps-Jenkins-CICD-with-GitHub-Integration-use-EC2-Ubuntu.git) | Link Youtube
+### 3. DevOps-Hands-On-3rd-RealTime-End-to-End-CI-CD-Docker-Jenkins-Nexus-SonarQube-datree-Helm
+[Link](https://github.com/HoangGuruu/DevOps-Hands-On-3rd-RealTime-End-to-End-CI-CD-Docker-Jenkins-Nexus-SonarQube-datree-Helm) | Link Youtube
+### 4. DevOps-Hands-On-4th-Deployment-On-Kubernetes-Cluster-with-Jenkins-CI-CD-GitHub-Docker-Ansible
+[Link](https://github.com/HoangGuruu/DevOps-Hands-On-4th-Deployment-On-Kubernetes-Cluster-with-Jenkins-CI-CD-GitHub-Docker-Ansible/blob/main/README.md) | Link Youtube
+
 
 <p align="center">
  <h1 align="center">II. List of my AI Project</h1>
