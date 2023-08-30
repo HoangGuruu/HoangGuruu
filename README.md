@@ -1,8 +1,10 @@
+![Banner-Iamge](https://github.com/HoangGuruu/HoangGuruu/assets/111829092/89e0eefc-9456-4ff9-a5f3-7e1eaafb3379)
 <p align="center">
- <img width="100px" src="https://github.com/HoangGuruu/DevOps-Editor-On-Readme.md/assets/111829092/71a0a23c-3138-4a07-aa1b-7051f487eb36" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="" align="center" alt="GitHub Readme Stats" />
  <h1 align="center">GitHub Readme Status - Hoang Guruu</h1>
  <p align="center">Become A Best DevOps Engineer and A Best AI Engineer </p>
 </p>
+
 
 <p align="center">
  <h2 align="center"> 🧑‍💻 DevSecOps Skill </h2>
