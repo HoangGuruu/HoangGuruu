@@ -1,13 +1,12 @@
 ![Banner-Iamge](https://github.com/HoangGuruu/HoangGuruu/assets/111829092/89e0eefc-9456-4ff9-a5f3-7e1eaafb3379)
 <p align="center">
- <img width="100px" src="" align="center" alt="GitHub Readme Stats" />
  <h1 align="center">GitHub Readme Status - Hoang Guruu</h1>
  <p align="center">Become A Best DevOps Engineer and A Best AI Engineer </p>
 </p>
 
 
 <p align="center">
- <h2 align="center"> 🧑‍💻 DevSecOps Skill </h2>
+ <h2 align="center"> 🧑‍💻 DevOps Skill </h2>
 </p>
 <p align="center"> 
  <img height="25px" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" align="center" /> <img height="25px" src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white" align="center" /> <img height="25px" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" align="center" /> <img height="25px" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white" align="center" /> <img height="25px" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" align="center" /> <img height="25px" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white" align="center" /> <img height="25px" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white" align="center" /> <img height="25px" src="https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white" align="center" /> <img height="25px" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white" align="center" /> <img height="20px" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white" />  <img height="25px"     
