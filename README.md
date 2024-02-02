@@ -1,4 +1,5 @@
-![Banner-Iamge](https://github.com/HoangGuruu/HoangGuruu/assets/111829092/89e0eefc-9456-4ff9-a5f3-7e1eaafb3379)
+<img width="1188" alt="1" src="https://github.com/HoangGuruu/HoangGuruu/assets/111829092/9543cd9f-1919-4b29-b40d-c593b76eb450">
+
 <p align="center">
  <h1 align="center">GitHub Readme Status - Hoang Guruu</h1>
  <p align="center">Become A Best DevOps Engineer and A Best AI Engineer </p>
