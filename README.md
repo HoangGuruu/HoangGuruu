@@ -1,4 +1,4 @@
-<img width="1188" alt="1" src="https://github.com/HoangGuruu/HoangGuruu/assets/111829092/9543cd9f-1919-4b29-b40d-c593b76eb450">
+<img width="1188" alt="1" src="">
 
 <p align="center">
  <h1 align="center">GitHub Readme Status - Hoang Guruu</h1>
