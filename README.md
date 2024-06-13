@@ -5,7 +5,7 @@
 
 ![Alt text](p1.png)
 
-## Series Videos
+## Series Videos - [Youtube Video](https://www.youtube.com/@HoangGuruu) 
 <!-- <div align="center"> -->
 
 <center>
