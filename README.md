@@ -3,10 +3,12 @@
  <p align="center">Become A Best DevOps Engineer</p>
 </p>
 
-# DevOps Beginner 
-
+![Alt text](p1.png)
 
 ## Series Videos
+<!-- <div align="center"> -->
+
+<center>
 
 | Day | DevOps Contents |
 | ---- | ---------------- |
@@ -62,7 +64,9 @@
 | 149.   |  |
 | 150.   |  |
 
+</center>
 
+<!-- </div> -->
 
 <p align="center">
  <h2 align="center"> 🧑‍💻 DevOps Skill </h2>
