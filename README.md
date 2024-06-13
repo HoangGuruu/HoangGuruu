@@ -1,6 +1,6 @@
 <p align="center">
  <h1 align="center">GitHub Readme Status - Hoang Guruu</h1>
- <p align="center">Become A Best DevOps Engineer and A Best AI Engineer </p>
+ <p align="center">Become A Best DevOps Engineer</p>
 </p>
 
 # DevOps Beginner 
