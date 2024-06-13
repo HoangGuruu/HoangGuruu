@@ -10,39 +10,59 @@
 
 | Day | DevOps Contents |
 | ---- | ---------------- |
-| 100.   | Create AWS EKS Cluster using eksctl CLI |
-| 101.   | [Docker Fundamentals](https://github.com/stacksimplify/docker-fundamentals) |
-| 102.   | [Kubernetes Fundamentals](https://github.com/stacksimplify/kubernetes-fundamentals) |
-| 103.   | EKS Storage with AWS EBS CSI Driver |
-| 104.   | Kubernetes Important Concepts for Application Deployments |
-| 105.   | Kubernetes - Secrets |
-| 106.   | Kubernetes - Init Containers |
-| 5.3  | Kubernetes - Liveness & Readiness Probes |
-| 5.4  | Kubernetes - Requests & Limits |
-| 5.5  | Kubernetes - Namespaces, Limit Range and Resource Quota |
-| 6.   | EKS Storage with AWS RDS MySQL Database |
-| 7.   | Load Balancing using CLB & NLB |
-| 7.1  | Load Balancing using CLB - AWS Classic Load Balancer |
-| 7.2  | Load Balancing using NLB - AWS Network Load Balancer |
-| 8.   | Load Balancing using ALB - AWS Application Load Balancer |
-| 8.1  | ALB Ingress Controller - Install |
-| 8.2  | ALB Ingress - Basics |
-| 8.3  | ALB Ingress - Context path based routing |
-| 8.4  | ALB Ingress - SSL |
-| 8.5  | ALB Ingress - SSL Redirect HTTP to HTTPS |
-| 8.6  | ALB Ingress - External DNS |
-| 9.   | Deploy Kubernetes workloads on AWS Fargate Serverless |
-| 9.1  | AWS Fargate Profiles - Basic |
-| 9.2  | AWS Fargate Profiles - Advanced using YAML |
-| 10.  | Build and Push Container to AWS ECR and use that in EKS |
-| 11.  | DevOps with AWS Developer Tools CodeCommit, CodeBuild and CodePipeline |
-| 12.  | Microservices Deployment on EKS - Service Discovery |
-| 13.  | Microservices Distributed Tracing using AWS X-Ray |
-| 14.  | Microservices Canary Deployments |
-| 15.  | EKS HPA - Horizontal Pod Autosaler |
-| 16.  | EKS VPA - Vertical Pod Autosaler |
-| 17.  | EKS CA - Cluster Autosaler |
-| 18.  | EKS Monitoring using CloudWatch Agent & Fluentd - Container Insights |
+| 100.   |  |
+| 101.   |  |
+| 102.   |  |
+| 103.   |  |
+| 104.   |  |
+| 105.   |  |
+| 106.   |  |
+| 107.   |  |
+| 108.   |  |
+| 109.   |  |
+| 110.   |  |
+| 111.   |  |
+| 112.   |  |
+| 113.   |  |
+| 114.   |  |
+| 115.   |  |
+| 116.   |  |
+| 117.   |  |
+| 118.   |  |
+| 119.   |  |
+| 120.   |  |
+| 121.   |  |
+| 122.   |  |
+| 123.   |  |
+| 124.   |  |
+| 125.   |  |
+| 126.   |  |
+| 127.   |  |
+| 128.   |  |
+| 129.   |  |
+| 130.   |  |
+| 131.   |  |
+| 132.   |  |
+| 133.   |  |
+| 134.   |  |
+| 135.   |  |
+| 136.   |  |
+| 137.   |  |
+| 138.   |  |
+| 139.   |  |
+| 140.   |  |
+| 141.   |  |
+| 142.   |  |
+| 143.   |  |
+| 144.   |  |
+| 145.   |  |
+| 146.   |  |
+| 147.   |  |
+| 148.   |  |
+| 149.   |  |
+| 150.   |  |
+
+
 
 <p align="center">
  <h2 align="center"> 🧑‍💻 DevOps Skill </h2>
