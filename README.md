@@ -1,4 +1,4 @@
-![Alt text](Images/p1.png)
+![Alt text](/p1.png)
 
 ## Series Videos - [Youtube Video](https://www.youtube.com/@HoangGuruu) 
 <!-- <div align="center"> -->
